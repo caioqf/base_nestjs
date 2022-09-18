@@ -1,4 +1,4 @@
-# Base Nest.js
+# Nest.js boilerplate
 
 Boilerplate for fast start on Nest.js development
 
